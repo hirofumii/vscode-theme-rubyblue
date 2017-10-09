@@ -21,12 +21,12 @@
 				<string>#16314a</string>
 				<key>selection</key> <!-- 選択 -->
 				<string>#3e7087</string>
-                
+
 				<key>findHighlight</key> <!-- 検索の背景色 -->
 				<string>#ff00ff</string>
 				<key>findHighlightForeground</key> <!-- 検索の前景色 -->
 				<string>#ff00ff</string>
-                
+
 				<key>selectionBorder</key> <!-- ？？ -->
 				<string>#ff00ff</string>
 				<key>activeGuide</key> <!-- ？？ -->
@@ -228,7 +228,7 @@
 				<string>#66d9ef</string>
 			</dict>
 		</dict>
-        
+
         <dict>
 			<key>name</key>
 			<string>css tag-name</string>
@@ -266,7 +266,7 @@
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
-        
+
 		<dict>
 			<key>name</key>
 			<string>Library function</string> <!-- ライブラリの関数？？ -->
@@ -306,7 +306,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-        
+
 		<dict>
 			<key>name</key>
 			<string>Library variable</string> <!-- ライブラリの変数？？ -->
@@ -457,7 +457,7 @@
 				<string>#75715E</string>
 			</dict>
 		</dict>
-        
+
         <dict>
 			<key>name</key>
 			<string>MetaTag</string>
@@ -469,7 +469,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-        
+
         <dict>
             <key>name</key>
             <string>Operator</string> <!-- HTML XMLの括弧 -->
@@ -500,7 +500,7 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
-        
+
 
 	</array>
 	<key>uuid</key>
