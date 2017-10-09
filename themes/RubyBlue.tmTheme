@@ -563,6 +563,17 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+        <dict>
+			<key>name</key>
+			<string>MetaTag</string>
+			<key>scope</key>
+			<string>meta.tag.sgml.doctype.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f0f</string>
+			</dict>
+		</dict>
 
         <dict>
             <key>name</key>
