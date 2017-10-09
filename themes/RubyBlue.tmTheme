@@ -121,7 +121,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff00ff</string>
+				<string>#82C6E0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -291,6 +291,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library constant</string> <!-- ライブラリの定数？？ -->
+			<key>scope</key>
+			<string>support.constant.property-value</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#F4C20B</string>
 			</dict>
 		</dict>
 		<dict>
