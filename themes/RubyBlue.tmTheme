@@ -277,7 +277,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#F4C20B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -303,7 +303,33 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#82C6E0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library class/type</string> <!-- cssのプロパティとか -->
+			<key>scope</key>
+			<string>support.type.vendored.property-name</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#f0f</string>
+			</dict>
+		</dict>
+    <dict>
+			<key>name</key>
+			<string>Library class/type</string> <!-- cssのプロパティとか -->
+			<key>scope</key>
+			<string>support.function.timing-function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#fff</string>
 			</dict>
 		</dict>
 
