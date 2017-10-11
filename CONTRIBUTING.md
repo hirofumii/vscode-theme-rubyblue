@@ -2,6 +2,8 @@
 
 * https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 * https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+* https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
+* These are both added as recomended workspace extensions
 
 ###Coding Guidelines:
 
