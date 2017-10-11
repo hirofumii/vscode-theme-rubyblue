@@ -21,8 +21,10 @@ In VSCode press F1, search `ext install` followed by extension name, in this cas
 
 ## Release Notes
 
-### Version 1.1.0
+### Version 2.0.0
 - Updated to look more like the brackets version of the theme.
+- Changed theme to JSON format
+- Added MarkDown Formatting
 
 ### Version 1.0.0
 
