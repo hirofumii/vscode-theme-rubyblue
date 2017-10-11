@@ -350,7 +350,7 @@
     },
     {
       "name": "MetaTag",
-      "scope": "meta.tag.sgml.doctype.html",
+      "scope": "meta.tag.sgml.doctype.html, punctuation.section.embedded",
       "settings": {
         "foreground": "#f0f"
       }
