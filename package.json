@@ -27,7 +27,7 @@
     "themes": [{
       "label": "Ruby Blue",
       "uiTheme": "vs-dark",
-      "path": "./themes/RubyBlue.tmTheme"
+      "path": "./themes/RubyBlue.tmTheme.json"
     }]
   }
 }
