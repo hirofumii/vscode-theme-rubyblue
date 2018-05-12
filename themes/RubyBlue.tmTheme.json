@@ -1,22 +1,19 @@
 {
-  "name": "Ruby Blue",
-  "settings": [{
+  "type": "dark",
+  "colors": {
+    "editor.background": "#112435",
+    "editor.foreground": "#f8f8f2",
+    "editor.selectionBackground": "#3e7087",
+    "editor.lineHighlightBackground": "#16314a",
+    "editorCursor.foreground": "#f8f8f2",
+    "editorWhitespace.foreground": "#555555",
+    "editorIndentGuide.activeBackground": "#999999"
+  },
+  "tokenColors": [
+    {
       "settings": {
-        "background": "#112435",
-        "caret": "#F8F8F2",
-        "foreground": "#F8F8F2",
-        "invisibles": "#555555",
-        "lineHighlight": "#16314a",
-        "selection": "#3e7087",
-        "findHighlight": "#ff00ff",
-        "findHighlightForeground": "#ff00ff",
-        "selectionBorder": "#ff00ff",
-        "activeGuide": "#ff00ff",
-        "bracketsForeground": "#A6E22E",
-        "bracketsOptions": "underline",
-        "bracketContentsForeground": "#A6E22E",
-        "bracketContentsOptions": "underline",
-        "tagsOptions": "stippled_underline"
+        "foreground": "#f8f8f2ff",
+        "background": "#112435ff"
       }
     },
     {
@@ -376,7 +373,30 @@
       "settings": {
         "foreground": "#E6DB74"
       }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "#6796e6"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "#cd9731"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "#f44747"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "#b267e6"
+      }
     }
-  ],
-  "uuid": "68DD7B60-826B-4250-8787-F757615C1987"
+  ]
 }
